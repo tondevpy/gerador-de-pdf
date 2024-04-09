@@ -11,7 +11,7 @@ Este é um simples projeto em Python para gerar um arquivo PDF utilizando a bibl
     pip install reportlab
     ```
 
-3. Execute o script `pdf_generator.py`.
+3. Execute o script `app.py`.
 4. Insira o título, a frase e o nome do autor conforme solicitado.
 5. O script criará automaticamente um arquivo PDF com as informações fornecidas.
 
